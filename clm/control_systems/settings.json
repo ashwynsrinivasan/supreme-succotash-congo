@@ -1,0 +1,12 @@
+{
+  "project_name": "Congo CLM",
+  "author": "Srinivasan Ashwyn",
+  "version": "1.0.0",
+  "description": "Control and stabilization algorithms for Congo laser modules",
+  "dependencies": {
+    "python": ">=3.6"
+  },
+  "env": {
+    "PYTHONPATH": "sppd_laser"
+  }
+}
